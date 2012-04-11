@@ -1,0 +1,1 @@
+select max(start_date_hour) from dw_ft_process_interval;

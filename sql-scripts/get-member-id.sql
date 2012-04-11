@@ -1,0 +1,1 @@
+select member_id from an_members where email = upper(&1);

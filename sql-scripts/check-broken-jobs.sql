@@ -1,0 +1,1 @@
+select job, what, interval from user_jobs where broken='Y' or failures > 0;

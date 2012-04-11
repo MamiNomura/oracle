@@ -1,0 +1,2 @@
+variable CURRENCY_FORMAT varchar2(30)
+exec:CURRENCY_FORMAT:='$999,999,999,990.99'
